@@ -1,5 +1,5 @@
 === Kento Ajax Contact Form ===
-Contributors: hasanrang05, biplob53
+Contributors: kentothemes
 Donate link: 
 Tags: Contact, contact form, contact form plugin, feedback, feedback form, send, contact us, ajax, ajax contact form, ajax contact form plugin, contact without page refresh, wordpress ajax contact form plugin, wordpress ajax form plugin, wordpress contact form using ajax, wordpress plugin for contact form
 Requires at least: 3.7
